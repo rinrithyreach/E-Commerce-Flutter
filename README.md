@@ -7,10 +7,10 @@
 | Feature | Status |
 |----------|---------|
 | 🚀 Project Setup | ✅ Completed |
-| ⚡ GetX Setup | ⏳ Pending |
-| 🔑 Login UI | ⏳ Pending |
-| 🏠 Home UI | ⏳ Pending |
-| 🔗 API Connection | ⏳ Pending |
+| ⚡ GetX Setup | ✅ Completed |
+| 🔑 Login UI | ✅ Completed |
+| 🏠 Home UI | ✅ Completed |
+| 🔗 API Connection | ✅ Completed |
 
 ---
 
