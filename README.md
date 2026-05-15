@@ -1,17 +1,27 @@
-# e_commerce_flutter
+# 🚀 Flutter Development Progress
 
-A new Flutter project.
+---
 
-## Getting Started
+## 📅 Week 1
 
-This project is a starting point for a Flutter application.
+| Feature | Status |
+|----------|---------|
+| 🚀 Project Setup | ✅ Completed |
+| ⚡ GetX Setup | ⏳ Pending |
+| 🔑 Login UI | ⏳ Pending |
+| 🏠 Home UI | ⏳ Pending |
+| 🔗 API Connection | ⏳ Pending |
 
-A few resources to get you started if this is your first Flutter project:
+---
 
-- [Learn Flutter](https://docs.flutter.dev/get-started/learn-flutter)
-- [Write your first Flutter app](https://docs.flutter.dev/get-started/codelab)
-- [Flutter learning resources](https://docs.flutter.dev/reference/learning-resources)
+## 📅 Week 2
 
-For help getting started with Flutter development, view the
-[online documentation](https://docs.flutter.dev/), which offers tutorials,
-samples, guidance on mobile development, and a full API reference.
+| Feature | Status |
+|----------|---------|
+| 🛍️ Product Listing UI | ⏳ Pending |
+| 🛒 Cart Feature | ⏳ Pending |
+| 💳 Checkout UI | ⏳ Pending |
+| 📦 Order Tracking | ⏳ Pending |
+| 🔔 Push Notifications | ⏳ Pending |
+
+---
