@@ -112,8 +112,6 @@ packages:
     description: flutter
     source: sdk
     version: "0.0.0"
-<<<<<<< HEAD
-=======
   get:
     dependency: "direct main"
     description:
@@ -130,7 +128,6 @@ packages:
       url: "https://pub.dev"
     source: hosted
     version: "4.1.2"
->>>>>>> 0f8c6de9c47c08bad9153edf7cf4f0062f3c212e
   leak_tracker:
     dependency: transitive
     description:
