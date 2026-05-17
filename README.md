@@ -18,10 +18,10 @@
 
 | Feature | Status |
 |----------|---------|
-| 🛍️ Product Listing UI | ⏳ Pending |
-| 🛒 Cart Feature | ⏳ Pending |
-| 💳 Checkout UI | ⏳ Pending |
-| 📦 Order Tracking | ⏳ Pending |
-| 🔔 Push Notifications | ⏳ Pending |
+| 🛍️ Product Listing UI | ✅ Completed |
+| 🛒 Cart Feature | ✅ Completed |
+| 💳 Checkout UI | ✅ Completed |
+| 📦 Order Tracking | ✅ Completed |
+| 🔔 Push Notifications | ✅ Completed |
 
 ---
